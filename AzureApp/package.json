@@ -1,0 +1,51 @@
+{
+  "name": "Azure",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.13",
+    "@types/react-dom": "^16.9.4",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-chart-kit": "^4.0.0",
+    "react-native-dashboard": "0.0.4",
+    "react-native-dynamic-vector-icons": "^0.2.1",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.5.2",
+    "react-native-highcharts": "^1.0.2",
+    "react-native-improved-text-input": "0.0.1",
+    "react-native-login-screen": "^0.1.11",
+    "react-native-maps": "0.26.1",
+    "react-native-pulse": "^1.0.7",
+    "react-native-sidebar": "^0.3.0",
+    "react-native-super-grid": "^3.1.1",
+    "react-native-svg": "^9.13.3",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-webview": "^7.5.2",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.10.3",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.7.4",
+    "@babel/runtime": "7.7.4",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-jest": "24.9.0",
+    "eslint": "6.7.1",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.56.3",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
