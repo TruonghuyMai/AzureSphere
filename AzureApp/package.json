@@ -15,7 +15,7 @@
     "@types/react": "^16.9.13",
     "@types/react-dom": "^16.9.4",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-chart-kit": "^4.0.0",
     "react-native-dashboard": "0.0.4",
     "react-native-dynamic-vector-icons": "^0.2.1",
